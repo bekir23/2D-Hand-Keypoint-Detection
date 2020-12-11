@@ -16,7 +16,7 @@ Note: 'generateBBoxes.py' and 'generate2Dpoints.py' scripts must run with python
 
 * Okay now.We have hand images,2D coordinates of the joints of the hand images and bounding box of the hand images. Let's get start to preprocess step.
 
-### Preprocess Step(Data Preprocess.ipynb)
+### Preprocess Step
 * We crop image  according to bounding box of the image and padding cropped image to fixed size. Because all images has different cropped size.
 * Then joints of the hand images have to readjust according to cropped image.
 * All images, joints and bounding box information save into dictionary in order to utilize in model step.
