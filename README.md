@@ -28,42 +28,12 @@ Note: 'generateBBoxes.py' and 'generate2Dpoints.py' scripts must run with python
 
 ## Result
 #### Prediction Images  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Ground Truth Images
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-<div class="row">
-  <div class="column">
-    <img src="/images//example_1_prediction.JPG" width="40%">
-  </div>
-  <div class="column">
-    <img src="/images//example_1_ground_truth.JPG" width="40%">
-  </div>
-</div>
- </body>
-</html>
 <img src="/images//example_1_prediction.JPG" width="40%">
 <img src="/images//example_1_ground_truth.JPG" width="40%">
+
 <img src="/images//example_2_prediction.JPG" width="40%">
 <img src="/images//example_2_ground_truth.JPG" width="40%">
+
 <img src="/images//example_3_prediction.JPG" width="40%">
 <img src="/images//example_3_ground_truth.JPG" width="40%">
