@@ -28,7 +28,7 @@ Note: 'generateBBoxes.py' and 'generate2Dpoints.py' scripts must run with python
 
 ## Result
 #### Prediction Images  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Ground Truth Images
-![Alt text](/images//example_1_prediction.JPG?raw=true =222x200) 
+![Alt text](/images//example_1_prediction.JPG?raw=true | width=200 | height=222) 
 ![Alt text](/images//example_1_ground_truth.JPG?raw=true =222x200 )
 
 ![Alt text](/images//example_2_prediction.JPG?raw=true =222x200)
