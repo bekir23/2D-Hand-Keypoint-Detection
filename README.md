@@ -1,8 +1,8 @@
 # Hand-Keypoint-Detection
 
-This project aim to detect hand joints. Model of this project utilize simple CNN architecture.
+* This project aim to detect hand joints. Model of this project utilize simple CNN architecture.
 
-##Dataset
+#Dataset
 
 http://www.rovit.ua.es/dataset/mhpdataset/
 
